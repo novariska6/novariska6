@@ -48,8 +48,6 @@
   <img src="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
 </p>
 
-⚠️ Snake perlu setup GitHub Action (lihat langkah bawah).
-
 ---
 
 ### 💌 Connect With Me
