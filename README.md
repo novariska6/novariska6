@@ -1,104 +1,94 @@
-<!-- 🌸 Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/novariska6/novariska6/main/Banner.png" />
-</p>
+<div align="center">
 
-<!-- 🌸 Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&duration=3000&pause=1000&color=F8A6C1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%8C%B8+I'm+Nova;Soft+Girl+Who+Codes+%F0%9F%92%BB;Frontend+Developer+in+Progress+%F0%9F%8C%B7" />
-</p>
+<img src=".github/Banner.png" alt="Nova Riska Navasari – Frontend Developer" width="100%" />
 
----
+<br/>
 
-### 💖 About Me
-
-```typescript
-const nova = {
-  name: "Nova Riska Navasari",
-  role: "Frontend Developer 🌷",
-  location: "Indonesia 🇮🇩",
-  vibe: "soft but still debugging 🎀",
-  currently: ["React", "TypeScript", "making things pretty"],
-  funFact: "debugging is my cardio ☕"
-}
-```
-
-- 🌱 Currently learning **React & TypeScript**
-- 🎀 Love aesthetic & clean UI
-- ✨ Soft but still debugging
-- ☕ Debugging is my cardio
-
----
-
-### 🧸 Tech Stack
-
-**🎀 Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-ffc0cb?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-ffb6c1?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f9d4e0?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-f8c8dc?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-f4b8d4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/novarn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:novanava26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=novariskan&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
-**🌸 Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/PHP-ffb6c1?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-f8c8dc?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-f4a6c1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-ffc0cb?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-ffb6c1?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-f8c8dc?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-**🐳 DevOps & Database**
-<p>
-  <img src="https://img.shields.io/badge/Docker-f4a6c1?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgAdmin-ffc0cb?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novariska6&theme=rose_pine&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novariska6&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
+## 👋 Hey, I'm Nova!
+
+I'm a **Frontend Developer** based in Indonesia who loves turning ideas into clean, intuitive, and delightful user experiences. I believe good code is not just about making things work — it's about making things *feel right*.
+
+From pixel-perfect UIs to seamless API integrations, I obsess over the details that make the difference between a product people use and one people love.
+
+When I'm not pushing code, you'll find me exploring new frameworks, breaking things (on purpose 😅), and putting them back together better than before.
+
+> *"First, solve the problem. Then, write the code."*
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### DevOps & Database
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
 
 ---
 
-### 💌 Connect With Me
-<p align="center">
-  <a href="https://www.instagram.com/novarn__/">
-    <img src="https://img.shields.io/badge/Instagram-ffc0cb?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nova-riska-navasari-ab0404377/">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:novanava26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-f8c8dc?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=novariskan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nova's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novariskan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=novariskan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-### 🌸 Little Note
-> "Growing slowly is still growing." ✨
+## 🚀 CI/CD
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=100&section=footer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=novariska6&label=visitors&color=ffc0cb&style=flat" />
-</p>
+I maintain automated workflows using **GitHub Actions** to keep code quality high and deployments smooth.
+
+![Workflows](https://img.shields.io/badge/GitHub_Actions-Automated-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with 💜 by Nova Riska Navasari</sub>
+
+</div>
