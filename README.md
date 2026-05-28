@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/novarn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/novarn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:novanava26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
@@ -70,6 +70,20 @@ When I'm not pushing code, you'll find me exploring new frameworks, breaking thi
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=novariskan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novariska6/novariska6/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
+</picture>
 
 </div>
 
