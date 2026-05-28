@@ -77,15 +77,9 @@ When I'm not pushing code, you'll find me exploring new frameworks, breaking thi
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novariska6/novariska6/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/novariska6/novariska6/output/snake.svg" />
+</p>
 
 ---
 
