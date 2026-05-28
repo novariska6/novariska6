@@ -9,7 +9,7 @@
   &nbsp;
   <a href="mailto:novanava26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=novariskan&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=novariska6&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 </div>
@@ -61,15 +61,15 @@ When I'm not pushing code, you'll find me exploring new frameworks, breaking thi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=novariskan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nova's GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=novariska6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nova's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novariskan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novariska6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=novariskan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=novariska6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
