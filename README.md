@@ -61,14 +61,6 @@ When I'm not pushing code, you'll find me exploring new frameworks, breaking thi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=novariska6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nova's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novariska6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=novariska6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
